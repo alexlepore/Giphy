@@ -6,8 +6,6 @@
 
 #![Image of CLI](/images/Capture.PNG)
 
-#![Image of CLI](/images/Capture2.PNG)
-
 #This program has the capability of rendering images that fit a pg rating as described by Giphy. Another feature is that it allows the user to add any animal they choose.
 
 #In the picture below you will see that I have added a wolf to my list. 
